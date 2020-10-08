@@ -1,0 +1,140 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #02fa0fe8;
+    padding:15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffdf00;
+    
+}
+body{
+    margin: 0px;
+    background-color: #eb0000;
+
+}
+.whole img{
+    border: 2px solid #00000000;
+    color: #ffdf00;
+    border-radius: 50px;
+  
+}
+
+
+.list{
+    justify-content: right;
+    border-radius: 20px;
+    background-color: rgb(109, 0, 252);
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+.list1{
+    justify-content: right;
+    border-radius: 20px;
+    background-color: rgb(109, 0, 252);
+    padding: 30px;
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+.list6{
+    justify-content: right;
+    border-radius: 20px;
+    background-color: rgb(109, 0, 252);
+    padding: 30px;
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+.list2{
+    justify-content: right;
+    border-radius: 20px;
+    background-color: rgb(109, 0, 252);
+    padding: 30px;
+    margin-top: 20px;
+    margin-left: 250px;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+.list5{
+    justify-content: right;
+    border-radius: 20px;
+    background-color: rgb(109, 0, 252);
+    padding: 30px;
+    margin-top: 20px;
+    margin-left: 400px;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+.list3{
+    justify-content: right;
+    border-radius: 20px;
+    background-color: rgb(109, 0, 252);
+    padding: 30px;
+    margin-top: 20px;
+    margin-left: 500px;
+    width: 310px;
+    font-family: fantasy;
+
+}
+.list4{
+    justify-content: right;
+    border-radius: 20px;
+    background-color: rgb(109, 0, 252);
+    padding: 30px;
+    margin-top: 20px;
+    margin-left: 650px;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+.footer {
+    background-color: lightgreen;
+   
+   
+    padding-left: 25px;
+    
+    
+    
+}
+.footer a{
+    padding-left: 20px;
+}
+ 
+a:link{
+    color: darkcyan;
+}
+
+a:visited{
+    color: coral;
+}
+
+.about{
+    background-color: rgb(235, 77, 15);
+padding: 25px;
+color: magenta;
+}
+
+.about h1{
+    color: mediumspringgreen;
+}
+.b{
+    background-color: olive;
+}
+
